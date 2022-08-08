@@ -1,0 +1,28 @@
+Git : it is a version control system, version : commit, 
+git Hub : is a storage area,  centralized remote system.
+git init
+git clone
+git status
+git commit
+git add
+git branch  : 
+git chechout -b : 
+git merge : to comibine codes
+
+
+ Main : -> b1 	-> c1
+				-> c2 	-> d3
+						-> d4
+		-> b2
+		-> b3
+		-> b4
+		
+		
+		
+b1 mere main
+
+
+child ni parent 
+
+main merege b1	
+	
